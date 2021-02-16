@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/78f01fe9ac12ac02eb29a93a7dc0d950/res/drawable-v21/notification_action_background.xml"
+    }
+]

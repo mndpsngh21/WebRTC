@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+      "/home/mandeep/Downloads/jitsi-meet-master"
+    ]
+  ],
+  "_from": "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+  "_id": "react-native-webrtc@github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-webrtc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+    "rawSpec": "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+    "saveSpec": "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+    "fetchSpec": null,
+    "gitCommittish": "c7cefc2869db43073aab46504a00ddd3eace7b17"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+  "_spec": "github:zycwind/react-native-webrtc#c7cefc2869db43073aab46504a00ddd3eace7b17",
+  "_where": "/home/mandeep/Downloads/jitsi-meet-master",
+  "author": {
+    "name": "Oney",
+    "email": "appdevoney@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-webrtc/react-native-webrtc/issues"
+  },
+  "dependencies": {
+    "base64-js": "^1.1.2",
+    "event-target-shim": "^1.0.5",
+    "prop-types": "^15.5.10",
+    "uuid": "^3.3.2"
+  },
+  "description": "WebRTC for React Native",
+  "homepage": "https://github.com/react-native-webrtc/react-native-webrtc",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "webrtc"
+  ],
+  "name": "react-native-webrtc",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-webrtc/react-native-webrtc.git"
+  },
+  "version": "1.75.0"
+}

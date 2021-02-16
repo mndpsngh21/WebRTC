@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:2:11-42
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:1-7:12
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:4:5-6:19
+service#com.oney.WebRTCModule.ScreenRecorderService
+ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:5:9-105
+	android:foregroundServiceType
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:5:56-103
+	android:name
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml:5:18-55
+uses-sdk
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		ADDED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml
+		INJECTED from /home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/src/main/AndroidManifest.xml

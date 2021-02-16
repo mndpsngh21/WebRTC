@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mandeep/Downloads/jitsi-meet-master/node_modules/react-native-webrtc/android/build/intermediates/res/merged/release/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/mandeep/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/451a33b412886a6aa6f483854d748d0e/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
